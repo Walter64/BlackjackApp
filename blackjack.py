@@ -124,7 +124,11 @@ def shuffle():
 
 def tim():
     print("Messing with the Kid!")
-    
+
+
+def tammy():
+    print("Tammy Wyfynette")
+
 
 mainWindow = tkinter.Tk()
 
